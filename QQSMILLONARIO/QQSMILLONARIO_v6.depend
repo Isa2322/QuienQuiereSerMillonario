@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1716055924 source:c:\users\isaias\desktop\qqsmillonario_v6\qqsmillonario_v6\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<float.h>
+	<locale.h>
+	"cJSON.h"
+
+1716055924 c:\users\isaias\desktop\qqsmillonario_v6\qqsmillonario_v6\cjson.h
+	<stddef.h>
+
+1718133514 source:c:\users\isaias\desktop\qqsmillonario_v6\qqsmillonario_v6\funciones_tp.c
+	"header_tp.h"
+
+1718131560 c:\users\isaias\desktop\qqsmillonario_v6\qqsmillonario_v6\header_tp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<curl/curl.h>
+	"cJSON.h"
+
+1718132665 source:c:\users\isaias\desktop\qqsmillonario_v6\qqsmillonario_v6\main.c
+	"header_tp.h"
+
+1716055924 source:c:\programacion\algoritmos_y_estructuras_de_datos\qqsmillonario_final\qqsmillonario\qqsmillonario_v6\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<float.h>
+	<locale.h>
+	"cJSON.h"
+
+1716055924 c:\programacion\algoritmos_y_estructuras_de_datos\qqsmillonario_final\qqsmillonario\qqsmillonario_v6\cjson.h
+	<stddef.h>
+
+1738900323 source:c:\programacion\algoritmos_y_estructuras_de_datos\qqsmillonario_final\qqsmillonario\qqsmillonario_v6\funciones_tp.c
+	"header_tp.h"
+
+1738899079 c:\programacion\algoritmos_y_estructuras_de_datos\qqsmillonario_final\qqsmillonario\qqsmillonario_v6\header_tp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<curl/curl.h>
+	"cJSON.h"
+
+1718132666 source:c:\programacion\algoritmos_y_estructuras_de_datos\qqsmillonario_final\qqsmillonario\qqsmillonario_v6\main.c
+	"header_tp.h"
+

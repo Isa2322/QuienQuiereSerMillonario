@@ -1,0 +1,1 @@
+En config se pueden ajustar la cantidad y tiempo de rondas
